@@ -1,0 +1,6 @@
+{
+  "name": "my-root-project",
+  "scripts": {
+    "dev": "pnpm -C nextjs-dashboard run dev"
+  }
+}
